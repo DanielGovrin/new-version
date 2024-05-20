@@ -1,11 +1,10 @@
-
 .apple {
-    width: 230px;
-    height: 200px;
-    border-radius: 36% 36% 41% 41% / 42% 42% 75% 75%;   
-    position: relative;
-    margin: 80px auto 0;
-    background: white;
+  width: 230px;
+  height: 200px;
+  border-radius: 36% 36% 41% 41% / 42% 42% 75% 75%;
+  position: static;
+  margin: 80px auto 0;
+  background: white;
 }
 
 .footer {
@@ -15,9 +14,9 @@
   right: -40%;
   top: 8%;
   border-radius: 60%;
-  background: #CCC;
+  background: #ccc;
 }
-.middle span{
+.middle span {
 }
 
 .top {
